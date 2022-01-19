@@ -1,0 +1,64 @@
+body{
+    background-image: url(http://file3.instiz.net/data/file3/2018/08/13/b/6/9/b69049d54b3a56c9752214d020a34ca6.jpg);
+    display: flex;
+    justify-content: center;
+}
+
+@font-face {
+    font-family: 'KyoboHandwriting2020A';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2112@1.0/KyoboHandwriting2020A.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+    text-align: center;
+    font-family: 'East Sea Dokdo', cursive;
+    
+}
+
+.title{
+    font-size: 6vw;
+}
+
+.border{
+    border: 10px solid white ;
+    border-radius: 24px;
+    background-color: rgba(247, 243, 242, 0.7);
+    margin: 10vh 0vh;
+}
+
+.input{
+    margin : 30px;
+}
+
+.input-box{
+    height: 80px;
+    text-align : center;
+    font-family: 'East Sea Dokdo', cursive;
+    font-size:2em;
+
+}
+
+.btn-success{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button-style{
+    border-radius: 24px;
+    color:white;
+    padding: 1em 2em;
+    margin:10px;
+    font-size: 1.5em;
+}
+
+.btn-warning:hover {
+    color: white;
+
+.image-area{
+    display: flex;
+    justify-content: center;
+}
+
+
